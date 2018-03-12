@@ -4,4 +4,6 @@ The purpose of project is to create a working GUI where a company could safely h
 
 The project is ongoing, data visualization tools and project folder structure need work, so excuse the lack of structure in the file.
 
-File needed to run is Complete.py. Packages/libraries required are PyQT5, searborn, sqlite3, matplotlib, pandas, sys and scipy.stats. 
+File needed to run is Complete.py. Packages/libraries required are PyQT5, searborn, sqlite3, matplotlib, pandas, sys and scipy.stats.
+
+All other image files are resources that the application will use for logos and styles. 
